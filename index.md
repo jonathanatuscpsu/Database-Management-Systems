@@ -1,4 +1,4 @@
-## Learning Objectives Welcome to Database Management Systems (MGT 4058)! 
+## Welcome to Database Management Systems (MGT 4058)! 
 
 This is an introductory course on database technology. The purpose of this course is to provide hands-on experience in database management and design. Topics will include database concepts, data modeling, relational database development, SQL, the application of popular database systems software, some additional topics on more advanced database technology and data warehouses. After taking this class, students should have a grasp on the following major subjects in database management:
 
