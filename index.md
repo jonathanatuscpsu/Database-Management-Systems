@@ -1,9 +1,9 @@
 Welcome to Database Management Systems (MGT 4058)! This is an introductory course on database technology. The purpose of this course is to provide hands-on experience in database management and design. Topics will include database concepts, data modeling, relational database development, SQL, the application of popular database systems software, some additional topics on more advanced database technology and data warehouses. After taking this class, students should have a grasp on the following major subjects in database management:
 
-• Conceptual modeling (Entity-Relationship model)
-• Logical modeling (Relational database model)
-• SQL
-• Data warehousing
+* Conceptual modeling (Entity-Relationship model)
+*  Logical modeling (Relational database model)
+* SQL
+*  Data warehousing
 
 <!---Students will be first grounded in the core of the Python computer programming language. Later in the semester, the course will turn to applying Python to important tasks routinely included in data science workflows, such as tasks relating to data wrangling (processing and transforming data in order to derive an informative and manageable data set).--->
 
