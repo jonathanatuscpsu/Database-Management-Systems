@@ -5,6 +5,21 @@ Welcome to Database Management Systems (MGT 4058)! This is an introductory cours
 * SQL
 *  Data warehousing
 
+
+## Learning Objectives
+* Analyze the impact of data management on sustainability.
+* Design database systems that incorporate sustainability principles addressing environmental, social, and economic challenges.
+* Collaborate on interdisciplinary projects that synthesize database management with sustainable development.
+
+## Class Information
+* Instructor: Zhaohu (Jonathan) Fan, Ph.D.
+* Office Information: Scheller 4144 (Scheller College of Business, Room 4144) 
+* Email: jonathan.fan@scheller.gatech.edu
+* Office Hours: Tuesdays 3:30-4:30 pm & Thursdays 12:45-1:45 pm and by appointment
+
+ 
+Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
+
 <!---Students will be first grounded in the core of the Python computer programming language. Later in the semester, the course will turn to applying Python to important tasks routinely included in data science workflows, such as tasks relating to data wrangling (processing and transforming data in order to derive an informative and manageable data set).--->
 
 <!---https://catalog.barnard.edu/barnard-college/courses-instruction/course-search/?term=3&level=4000%2C9999&pl=0&ph=10&college=BC--->
@@ -27,14 +42,6 @@ Welcome to Database Management Systems (MGT 4058)! This is an introductory cours
 <!---https://github.com/zzz1990771/data_exp_python/blob/main/index.md?plain=1--->
 
 
-## Class Information
-* Instructor: Zhaohu (Jonathan) Fan, Ph.D.
-* Office Information: Scheller 4144 (Scheller College of Business, Room 4144) 
-* Email: jonathan.fan@scheller.gatech.edu
-* Office Hours: Tuesdays 3:30-4:30 pm & Thursdays 12:45-1:45 pm and by appointment
-
- 
-Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
 
  * [Cohort from 2024 Fall]()
  * [Course Project](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)
