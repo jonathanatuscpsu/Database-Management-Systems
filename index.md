@@ -46,69 +46,6 @@ Communication Policy: Students are encouraged to contact me anytime via email or
  * [Cohort from 2024 Fall]()
  * [Course Project](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)
 
-## Schedule (Lecture and Lab Notes)
-
-| Week          | Description  |
-|:-------------:|--------------|
-| **1**         | **[Introduction](Business-Programming-Lecture-1.pdf)** &nbsp;&nbsp;   |
-|               |  [Intro to Python](https://jonathanatuscpsu.github.io/Business-Programming/1A_Introduction_to_Python.html), [project demo](https://colab.research.google.com/drive/1Hxai0VZ5IjsGsqcaf5MDX93yu_NLUo1X?usp=sharing), and course outline|
-| **2**         | **[Basic Python](Business-Programming-Lecture-2.pdf)** &nbsp;&nbsp;   |
-|               | [Basic Python](Business-Programming-Lecture-3.pdf) |
-| **3**| **[Course Project](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)**  &nbsp;&nbsp; |
-|               | [Mastering Python's Built-in Debugging Tools: From Basic Syntax Errors to Advanced Exception Handling](Business-Programming-Lecture-4.pdf)   
-| **4**         | **[Navigating Python's Control Flow: Crafting Logic with Conditionals and Loops](Business-Programming-Lecture-5.pdf)** &nbsp;&nbsp;   |
-|               | [Mastering Lists in Python](Business-Programming-Lecture-6.pdf) |
-| **5**         | **[Crafting Modular Python: The Art and Science of Function Design](Business-Programming-Lecture-7.pdf)** &nbsp;&nbsp;  |
-|               | [Navigating Time and Date in Python: From Basic Timestamps to Advanced Time Zone Manipulations](Business-Programming-Lecture-8.pdf) |
-| **6**         | **[Deciphering Text Patterns with Python: Demystifying Regular Expressions](Business-Programming-Lecture-9.pdf)** &nbsp;&nbsp;   |
-|               | [Deciphering Text Patterns with Python: Demystifying Regular Expressions-II](Business-Programming-Lecture-10.pdf)
-| **7**         | **[Deciphering Text Patterns with Python: Demystifying Regular Expressions-III](Business-Programming-Lecture-11.pdf)** &nbsp;&nbsp;  |
-|               | [Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries](Business-Programming-Lecture-12.pdf) |
-|               | [Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries-II](Business-Programming-Lecture-13.pdf)|
-| **8**         | **[Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries-III](Business-Programming-Lecture-14.pdf)** &nbsp;&nbsp; |
-|               | [Object-Oriented Python: Unraveling the Power of Classes and Objects](Business-Programming-Lecture-15.pdf) |
-|               | [Midterm Preparation Guide](Business-Programming-Lecture-16.pdf) |
-| **9**         | **[Introduction to Course Project](Business-Programming-Lecture-17.pdf)** &nbsp;&nbsp;  |
-|               | Leveraging the Pandas to conduct data exploration    |
-| **10**        | **Data Visualizations** &nbsp;&nbsp; [Link]()  |
-|               | Data visualization basics|
-| **11**        | **Data Visualizations** &nbsp;&nbsp; [Link]()  |
-|               | Data visualization advanced|
-| **12**        | **Creating Online Dashboard** &nbsp;&nbsp; [Link]() |
-|               | Create dashboards that you can share with your colleague or client|
-| **13**        | **Efficient Coding in Python** &nbsp;&nbsp; [Link]() |
-|               |   |
-|               | |
-
-
-<!---Class videos, homework, and class projects are available in Canvas. Please check your homework in Canvas and submit all your homework through Canvas. All announcements are in Canvas.--->
-
-References:
-
-* [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas
-* [A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) by Jake VanderPlas
-* [Spark: The Definitive Guide, 2018](https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/) by Matei Zaharia, Bill Chambers.
-* [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
-
-Book:
-- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) (Book)
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (Book)
-- [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) (Book)
-- [Effective Python](https://effectivepython.com/) (Book)
-
-Others:
-- [Make an interactive Power BI dashboard from scratch in 15 minutes.](https://jakevdp.github.io/WhirlwindTourOfPython/index.tml) (Power BI for Business Analytics)
-
-Others:
-- [Make an interactive Power BI dashboard from scratch in 15 minutes.](https://jakevdp.github.io/WhirlwindTourOfPython/index.tml) (R)
-
-Others:
-- [Make an interactive Power BI dashboard from scratch in 15 minutes.](https://jakevdp.github.io/WhirlwindTourOfPython/index.tml) (Python)
-
-Others:
-- [Make an interactive Power BI dashboard from scratch in 15 minutes.](https://jakevdp.github.io/WhirlwindTourOfPython/index.tml) (Time-series)
-
   
 <!---must-have https://github.com/soltaniehha/Intro-to-Data-Analytics/blob/main/00-Python-Basics/01-Built-in-Scalar-Types.ipynb--->
 <!---must-have# resouce 1 https://freelearning.anaconda.cloud/jupyter-notebook-basics/46128--->
