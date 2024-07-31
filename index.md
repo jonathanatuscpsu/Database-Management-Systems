@@ -20,6 +20,38 @@ This is an introductory course on database technology. The purpose of this cours
  
 Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
 
+
+## Lecture materials (slides) and code demonstrating the relevant methods
+
+| Module        | Description                                                         |
+|:-------------:|:--------------------------------------------------------------------|
+| **1**         | **Module 1 – Practical Time Series Analysis (weeks 1-3)**          |
+|      [Welcome Lecture and Notes](Welcome.pdf)                 | •	Data-Driven Decision Making: Unleashing the Power of Business      |
+|             [Practical Time Series Analysis](W2.pdf)     | •	How to approach a forecasting problem 
+|                [R lab-I](BANA4090_W1_1_Intro_R.html)                  | •	Visualization and exploration of time series data |
+|           [R lab-II](BANA4090_W2_Visualizing-Time-Series-Data.html)           | •		Wrangling with time series objects|
+|              [R lab-III](W3.html)            |•	Features of time series data
+| **2**         | **Module 2 – Forecasting Basics (weeks 4-6)**          |
+|     [Forecasting Basics-Part I](Ch3-1.pdf)                    | •Four simple forecasting models
+|      [Forecasting Basics-Part II](Ch3-2.pdf)                     |•	Forecasting process
+|        [R lab-IV](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html)  |  •	R lab    (Basic tools For forecasting-I)|  
+|      [R lab-VI](BANA4090_Week5_Lab6_Data-Examples_German-Forecasts.html)   |     •	R lab      (Basic tools For forecasting-II)|          
+|   [R lab-VII](BANA4090_Week7_Lab7.html)  |•	R lab	(Evaluation of model performance-I)|
+| **3**         | **Module 3 – Forecasting Models (weeks 7-10)**          |
+|    [ARIMA-Part I](Ch4-1.pdf)                    |•	ARIMA models-I|
+|     [ARIMA-Part II](Ch4-2.pdf)                 |•	ARIMA models-II|
+|    [ARIMA-Part III](Ch4-3.pdf)                      |•	ARIMA models-III|
+|    [ARIMA-Part IV](Ch4-4.pdf)                      |•	Seasonal ARIMA models|
+|   [R lab-VIII](BANA4090_Week8_Lab8.html) |•	R lab	(Evaluation of model performance-II)|
+ |   [R lab-IX](BANA4090_Week9_Lab9.html)  |•	R lab (ARIMA-I)|
+ |   [R lab-X]( BANA4090_Week11_Lab10.html)  |•	R lab (ARIMA-II)|
+| **4**         | **Module 4 – Additional Topics   (weeks 11-14)**          |        
+|     [Additional Topics](Ch5-1.pdf)                    |•	Exponential smoothing-I|
+ |   [R lab-XI](BANA4090_Week12_Lab11.html)  |• R lab (Simple Exponential Smoothing)|
+ |   [R lab-XII](Week13.html)  |•	R lab (Holt's Method)|
+  |  [R lab-XIII]( Week14.html)  |•	R lab (Holt-Winter Method)|
+
+  
 <!---Students will be first grounded in the core of the Python computer programming language. Later in the semester, the course will turn to apply Python to important tasks routinely included in data science workflows, such as tasks relating to data wrangling (processing and transforming data in order to derive an informative and manageable data set).--->
 
 <!---https://catalog.barnard.edu/barnard-college/courses-instruction/course-search/?term=3&level=4000%2C9999&pl=0&ph=10&college=BC--->
