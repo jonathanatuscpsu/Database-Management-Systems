@@ -18,7 +18,9 @@ This is an introductory course on database technology. The purpose of this cours
 * Office Hours: Tuesdays 1:30-2:30 pm & Thursdays 1:30-2:30 pm and by appointment
 
  
-Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
+- Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
+
+- Textbook is optional.
 
 
 ## Lecture materials (slides) and code demonstrating the relevant methods
