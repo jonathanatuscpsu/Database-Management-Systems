@@ -3,8 +3,7 @@ This is an introductory course on database technology. The purpose of this cours
 * Conceptual modeling (Entity-Relationship model)
 * Logical modeling (Relational database model)
 * SQL
-*  Data warehousing
-
+* Data warehousing
 
 ## Learning Objectives
 * Analyze the impact of data management on sustainability.
@@ -22,7 +21,7 @@ This is an introductory course on database technology. The purpose of this cours
 
 - Textbook is optional.
 
-
+<!---https://www.prospectpressvt.com/textbooks/jukic-database-systems-introduction-to-databases-and-data-warehouses-2-0--->
 ## Lecture materials (slides) and code demonstrating the relevant methods
 
 | Module        | Description                                                         |
