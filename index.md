@@ -22,6 +22,22 @@ This is an introductory course on database technology. The purpose of this cours
 
 <!---https://www.prospectpressvt.com/textbooks/jukic-database-systems-introduction-to-databases-and-data-warehouses-2-0--->
 
+
+ * Cohort from 2024 Fall
+    * [Course Project](course-project.html)
+    * Selected Projects
+       * Hotel Bookings Data Analysis
+         *  [Casey Murphy](1.pdf)
+         *  [Elaine Wen](2.pdf)
+      * Petfinder.com Dog Data Analysis
+      * NFL Attendance Data Analysis
+      * Spotify Genre Data Analysis
+         *  [Kevin Dong](3.pdf)
+         *  [Nekha Duraisamy and Geethika Thota](4.pdf)
+      * Crime Analytics & Intelligence
+         *  [Jason Warner and Charles Hill](5.pdf)
+       
+        
 ## Lecture materials (slides) and code demonstrating the relevant methods
 
 | Module                                                               |                   Description                                                         |
