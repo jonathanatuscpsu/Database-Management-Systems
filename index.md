@@ -26,25 +26,6 @@ This is an introductory course on database technology. The purpose of this cours
  * Cohort from 2024 Fall
     * [Course Project](course-project.html)
     * Selected Projects
-       * Hotel Bookings Data Analysis
-         *  [Casey Murphy](1.pdf)
-         *  [Elaine Wen](2.pdf)
-      * Petfinder.com Dog Data Analysis
-      * NFL Attendance Data Analysis
-      * Spotify Genre Data Analysis
-         *  [Kevin Dong](3.pdf)
-         *  [Nekha Duraisamy and Geethika Thota](4.pdf)
-      * Crime Analytics & Intelligence
-         *  [Jason Warner and Charles Hill](5.pdf)
-       
-        
-## Lecture materials (slides) and code demonstrating the relevant methods
-
-| Module                                                               |                   Description                                                         |
-|:-------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------|
-| **Module 1 (weeks 1-5)**         |      **Basics of Statistics and Regression - Covers statistical concepts and regression techniques**    |
-|                    | 	 [Linear Regression: Simple and Multiple Regression](Data-Analytics-in-Business-(8-22-24).pdf), [How To Install MySQL (Server and Workbench)
- (Long Version)](MGT6203-IntroR-IntroMarkdown.html)|
 
   
 <!---Students will be first grounded in the core of the Python computer programming language. Later in the semester, the course will turn to apply Python to important tasks routinely included in data science workflows, such as tasks relating to data wrangling (processing and transforming data in order to derive an informative and manageable data set).--->
