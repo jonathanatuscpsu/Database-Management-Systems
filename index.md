@@ -23,8 +23,8 @@ This is an introductory course on database technology. The purpose of this cours
 <!---https://www.prospectpressvt.com/textbooks/jukic-database-systems-introduction-to-databases-and-data-warehouses-2-0--->
 
 
- * Cohort from 2024 Fall
-    * [Course Project](course-project.html)
+ * **Cohort from 2024 Fall**
+    * Course Project
     * Selected Projects
 
   
