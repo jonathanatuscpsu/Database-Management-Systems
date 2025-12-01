@@ -11,7 +11,7 @@ This is an introductory course on database technology. The purpose of this cours
 * Collaborate on interdisciplinary projects that synthesize database management with sustainable development.
 
 ## Class Information
-* Instructor: Zhaohu (Jonathan) Fan, Ph.D.
+* Instructor: **[Zhaohu (Jonathan) Fan](https://www.scheller.gatech.edu/directory/faculty/fan/index.html)**, Ph.D.
 * Office Information: Scheller 4144 (Scheller College of Business, Room 4144) 
 * Email: jonathan.fan@scheller.gatech.edu
 * Office Hours: Tuesdays 1:30-2:30 pm & Thursdays 1:30-2:30 pm and by appointment
